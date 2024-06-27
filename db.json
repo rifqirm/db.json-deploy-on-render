@@ -18,7 +18,7 @@
       "is_ready": true,
       "gambar": "1aglonemaAyunindi.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -30,7 +30,7 @@
       "is_ready": true,
       "gambar": "2aglonemaBigroy.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -42,7 +42,7 @@
       "is_ready": true,
       "gambar": "3aglonemaKhocin.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -54,7 +54,7 @@
       "is_ready": true,
       "gambar": "4aglonemaRedAnjamaniDewasa.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -66,7 +66,7 @@
       "is_ready": true,
       "gambar": "5aglonemaRedChocin.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -78,7 +78,7 @@
       "is_ready": true,
       "gambar": "6aglonemaRedMajesty.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -90,7 +90,7 @@
       "is_ready": true,
       "gambar": "7aglonemaRoDudAnjamani.jpg",
       "category": {
-        "id": 1,
+        "idCategories": 1,
         "nama": "Aglonema"
       }
     },
@@ -102,7 +102,7 @@
       "is_ready": true,
       "gambar": "8aglonemaRotundumAceh.jpg",
       "category": {
-        "id": 3,
+        "idCategories": 3,
         "nama": "Aglonema"
       }
     },
@@ -114,7 +114,7 @@
       "is_ready": true,
       "gambar": "9aglonemaSnowWhiteRemaja.jpg",
       "category": {
-        "id": 3,
+        "idCategories": 3,
         "nama": "Aglonema"
       }
     },
@@ -126,7 +126,7 @@
       "is_ready": true,
       "gambar": "10aglonemaSuksom.jpg",
       "category": {
-        "id": 3,
+        "idCategories": 3,
         "nama": "Aglonema"
       }
     },
@@ -138,7 +138,7 @@
       "is_ready": true,
       "gambar": "11aglonemaSuperWhite.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Aglonema"
       }
     },
@@ -150,7 +150,7 @@
       "is_ready": true,
       "gambar": "12aglonemaVenus.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Aglonema"
       }
     },
@@ -162,7 +162,7 @@
       "is_ready": true,
       "gambar": "1homalomenaEmeraldGem.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -174,7 +174,7 @@
       "is_ready": true,
       "gambar": "2homalomenaPurpleSword3.webp",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -186,7 +186,7 @@
       "is_ready": true,
       "gambar": "3homalomenaSelby.webp",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -198,7 +198,7 @@
       "is_ready": true,
       "gambar": "4homalomenaLemonGlow.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -210,7 +210,7 @@
       "is_ready": true,
       "gambar": "5homalomenaPictumTricolor2.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -222,7 +222,7 @@
       "is_ready": true,
       "gambar": "6homalomenaBlackVelvet.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -234,7 +234,7 @@
       "is_ready": true,
       "gambar": "7homalomenaSilverRed.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -246,7 +246,7 @@
       "is_ready": true,
       "gambar": "8homalomenaSchismatogl.webp",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -258,7 +258,7 @@
       "is_ready": true,
       "gambar": "9homalomenaAnubiasSp.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -270,7 +270,7 @@
       "is_ready": true,
       "gambar": "10homalomenaJavanicalisiiArmy.webp",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -282,7 +282,7 @@
       "is_ready": true,
       "gambar": "11HomalomenaJavanica.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     },
@@ -294,7 +294,7 @@
       "is_ready": true,
       "gambar": "12HomalomenaMaggie.jpg",
       "category": {
-        "id": 2,
+        "idCategories": 2,
         "nama": "Homalomena"
       }
     }
