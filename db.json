@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "id": 1,
+      "idCategories": 1,
       "nama": "Aglonema"
     },
     {
-      "id": 2,
+      "idCategories": 2,
       "nama": "Homalomena"
     }
   ],
